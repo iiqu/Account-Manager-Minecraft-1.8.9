@@ -6,9 +6,9 @@ A Minecraft Forge mod that allows you to switch between multiple Minecraft accou
 
 ### Video Demonstration
 
-[![Watch the Demo](media/screenshots/video-thumbnail.png)](media/videos/Mod%20Showcase.mp4)
+![Mod Showcase](media/screenshots/Mod%20Showcase.gif)
 
-*Click the image above to view the full high-quality MP4 video demonstration*
+*Complete walkthrough of all Account Manager features - [Download full quality MP4](media/videos/Mod%20Showcase.mp4)*
 
 ### Screenshots
 
