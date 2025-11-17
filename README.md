@@ -4,7 +4,10 @@ A Minecraft Forge mod that allows you to switch between multiple Minecraft accou
 
 ## Screenshots and Videos
 
-Check out the `media/` directory for screenshots and video demonstrations of the mod in action.
+- [Mod Showcase Video](media/videos/Mod%20Showcase.mp4) - Full demonstration of the mod's features
+- [Multiplayer Accounts Button](media/screenshots/Multiplayer%20Accounts%20Button%20Showcase.png) - The Accounts button in the Multiplayer menu
+- [Add Account Interface](media/screenshots/Add%20Account%20Showcase.png) - Adding a new account
+- [Anonymous Mode](media/screenshots/Accounts%20Showcase%20In%20Anonymous.png) - Account list in anonymous mode
 
 ## Features
 
@@ -30,10 +33,10 @@ Clean Minecraft-style GUI that fits seamlessly into the game. Intuitive navigati
 ### Installation Steps
 
 1. **Download the Mod**
-   - Download `account-manager-1.8.9.jar` from the repository or [Releases](https://github.com/iiqu/Account-Manager---Minecraft-1.8.9/releases) page
+   - Download `account-manager-1.8.9.jar` directly from the repository
 
 2. **Install Forge** (if not already installed)
-   - Download and install Minecraft Forge 1.8.9 from [files.minecraftforge.net](https://files.minecraftforge.net/net/minecraftforge/forge/)
+   - Download and install Minecraft Forge 1.8.9 from [files.minecraftforge.net](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
    - Run the installer and select the "Client" installation
 
 3. **Install the Mod**
@@ -155,4 +158,4 @@ This mod is for educational and personal use. Use responsibly and in accordance 
 
 ---
 
-For support, issues, or feature requests, please visit the [GitHub Issues](https://github.com/iiqu/Account-Manager---Minecraft-1.8.9/issues) page.
+For support, issues, or feature requests, please visit the [GitHub Issues](https://github.com/iiqu/Account-Manager-Minecraft-1.8.9/issues) page.
