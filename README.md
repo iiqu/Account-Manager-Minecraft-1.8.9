@@ -155,4 +155,4 @@ This mod is for educational and personal use. Use responsibly and in accordance 
 
 ---
 
-For support, issues, or feature requests, please visit the [GitHub Issues](https://github.com/iiqu/Account-Manager---Minecraft-1.8.9/
+For support, issues, or feature requests, please visit the [GitHub Issues](https://github.com/iiqu/Account-Manager---Minecraft-1.8.9/issues) page.
