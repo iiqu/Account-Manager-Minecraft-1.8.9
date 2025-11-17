@@ -7,7 +7,7 @@ A Minecraft Forge mod that allows you to switch between multiple Minecraft accou
 ### Video Demonstration
 
 <video width="100%" controls>
-  <source src="media/videos/Mod%20Showcase.mp4" type="video/mp4">
+  <source src="media/videos/Mod Showcase.mp4" type="video/mp4">
   Your browser does not support the video tag. [Download the video](media/videos/Mod%20Showcase.mp4) instead.
 </video>
 
