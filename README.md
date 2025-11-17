@@ -2,12 +2,25 @@
 
 A Minecraft Forge mod that allows you to switch between multiple Minecraft accounts without restarting the game. Perfect for content creators, server administrators, and players who manage multiple accounts.
 
-## Screenshots and Videos
+## Showcase
 
-- [Mod Showcase Video](media/videos/Mod%20Showcase.mp4) - Full demonstration of the mod's features
-- [Multiplayer Accounts Button](media/screenshots/Multiplayer%20Accounts%20Button%20Showcase.png) - The Accounts button in the Multiplayer menu
-- [Add Account Interface](media/screenshots/Add%20Account%20Showcase.png) - Adding a new account
-- [Anonymous Mode](media/screenshots/Accounts%20Showcase%20In%20Anonymous.png) - Account list in anonymous mode
+### Video Demonstration
+
+**[Watch Full Mod Showcase Video](media/videos/Mod%20Showcase.mp4)** - Complete walkthrough of all features
+
+### Screenshots
+
+**Multiplayer Menu Integration**
+![Multiplayer Accounts Button](media/screenshots/Multiplayer%20Accounts%20Button%20Showcase.png)
+*The Account Manager button seamlessly integrated into the Multiplayer menu*
+
+**Adding a New Account**
+![Add Account Interface](media/screenshots/Add%20Account%20Showcase.png)
+*Simple and intuitive interface for adding new accounts with all required information*
+
+**Anonymous Mode**
+![Anonymous Mode](media/screenshots/Accounts%20Showcase%20In%20Anonymous.png)
+*Privacy protection mode perfect for streaming - hides usernames and UUIDs*
 
 ## Features
 
